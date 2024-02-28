@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_message">Error, Try Again!</string>
+    <string name="empty_message">Lütfen bir şehir adı giriniz !!!</string>
+</resources>
